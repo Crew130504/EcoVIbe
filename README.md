@@ -116,13 +116,3 @@ Follow these steps to set up and run the project on your local machine.
 - **Image Handling:** Images are uploaded and served dynamically from the Python backend.
 - **Responsive Design:** The frontend is fully responsive using Bootstrap.
 
-## Members
-
-- **Carol Stefanya Velasco**  
-  University ID: 20231020215  
-  Email: csvelascor@udistrital.edu.co  
-
-- **David Eduardo Muñoz**  
-  University ID: 20232020281  
-  Email: demunozm@udistrital.edu.co  
-
